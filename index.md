@@ -15,7 +15,9 @@ title: 首页
 
 <div class="section-label">02 / PROJECTS</div>
 <h2 id="projects">项目与作品</h2>
+<div>
 <a class="project-card" href="https://github.com/Rock031004/Rock031004.github.io"><span class="project-tag">WEBSITE · GITHUB PAGES</span><h3>我的个人主页 <span aria-hidden="true">↗</span></h3><p>基于 Minimal 开源模板搭建，展示个人简介与项目，支持手机和电脑访问。</p><span class="project-bottom">查看项目源码 →</span></a>
+</div>
 <p class="all-projects"><a href="https://github.com/Rock031004?tab=repositories">查看全部公开仓库 ↗</a></p>
 
 <div class="section-label">03 / CONNECT</div>
