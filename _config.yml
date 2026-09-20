@@ -1,0 +1,10 @@
+title: Rock031004
+description: 欢迎来到我的个人主页。
+logo: https://github.com/Rock031004.png
+url: https://rock031004.github.io
+baseurl: ""
+lang: zh-CN
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
+show_downloads: false
